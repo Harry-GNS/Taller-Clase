@@ -4,6 +4,6 @@ Este repositorio contiene la solución al Taller 02 del curso de Métodos Numér
 ![🧮 Taller 02: Cálculo de raíces](bannertaller2.png)
 ![Newton](newton_method.gif)
 
-![Newton](intersecciones_animacion)
+![Newton](intersecciones_animacion.gif)
 ![Newton](newton_method_animation_zoom.gif)
 
