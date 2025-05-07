@@ -5,5 +5,5 @@ Este repositorio contiene la solución al Taller 02 del curso de Métodos Numér
 ![Newton](newton_method.gif)
 
 ![Newton](intersecciones_animacion.gif)
-![Newton](Ejercicio 3.gif)
+![Newton](Ejercicio3.gif)
 
